@@ -46,4 +46,4 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
       - name: Post the link to the report
-        run: echo "https://johnta19.github.io/testjava/${{ github.run_number }}/"
+        run: echo "https://johnta19.github.io/javaex/${{ github.run_number }}/"
