@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jul 26 22:22:15 GMT 2021","Mon Jul 26 22:22:15 GMT 2021","7","","com.example.project.FirstTest","","com.example.project.FirstTest","validateNumbers","Test github actions",""
+"passed","Mon Jul 26 22:22:15 GMT 2021","Mon Jul 26 22:22:15 GMT 2021","183","","com.example.project.FirstTest","","com.example.project.FirstTest","validateInsertionSortDESC","Array should be sorted by DESC",""
+"passed","Mon Jul 26 22:22:15 GMT 2021","Mon Jul 26 22:22:15 GMT 2021","2","","com.example.project.FirstTest","","com.example.project.FirstTest","validateInsertionSortASC","Array should be sorted by ASC",""

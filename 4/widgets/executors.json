@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://johnta19.github.io/javaex",
+  "buildOrder" : 4,
+  "buildName" : "GitHub Actions Run #1069129673",
+  "buildUrl" : "https://github.com/johnta19/javaex/actions/runs/1069129673",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://johnta19.github.io/javaex/4/"
+} ]
