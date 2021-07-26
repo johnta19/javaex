@@ -1,0 +1,62 @@
+{
+  "a17fb723cea13b8cbac9780067d26d18" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9ce0e96ee9220ac9",
+      "reportUrl" : "https://johnta19.github.io/javaex/3//#testresult/9ce0e96ee9220ac9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627337966535,
+        "stop" : 1627337966541,
+        "duration" : 6
+      }
+    } ]
+  },
+  "29434e51cd058a4e677d2a695b68055f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6288fb32c727bab7",
+      "reportUrl" : "https://johnta19.github.io/javaex/3//#testresult/6288fb32c727bab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627337966203,
+        "stop" : 1627337966426,
+        "duration" : 223
+      }
+    } ]
+  },
+  "2ecabbc76cb4de6c8e8a6c8d97f116b3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b711ffb72e3acf2",
+      "reportUrl" : "https://johnta19.github.io/javaex/3//#testresult/4b711ffb72e3acf2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627337966549,
+        "stop" : 1627337966552,
+        "duration" : 3
+      }
+    } ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "uid" : "9ce0e96ee9220ac9",
+  "name" : "Test github actions",
+  "fullName" : "com.example.project.FirstTest.validateNumbers",
+  "historyId" : "a17fb723cea13b8cbac9780067d26d18",
+  "time" : {
+    "start" : 1627337966535,
+    "stop" : 1627337966541,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az39-838"
+  }, {
+    "name" : "thread",
+    "value" : "2965@fv-az39-838.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "com.example.project.FirstTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.example.project.FirstTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateNumbers"
+  }, {
+    "name" : "suite",
+    "value" : "com.example.project.FirstTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d936624d43849802",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627337959961,
+        "stop" : 1627337959967,
+        "duration" : 6
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9ce0e96ee9220ac9.json",
+  "parameterValues" : [ ]
+}

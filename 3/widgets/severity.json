@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4b711ffb72e3acf2",
+  "name" : "Array should be sorted by ASC",
+  "time" : {
+    "start" : 1627337966549,
+    "stop" : 1627337966552,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6288fb32c727bab7",
+  "name" : "Array should be sorted by DESC",
+  "time" : {
+    "start" : 1627337966203,
+    "stop" : 1627337966426,
+    "duration" : 223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ce0e96ee9220ac9",
+  "name" : "Test github actions",
+  "time" : {
+    "start" : 1627337966535,
+    "stop" : 1627337966541,
+    "duration" : 6
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
