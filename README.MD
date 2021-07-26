@@ -1,1 +1,3 @@
-test
+mvn install
+
+mvn clean test
